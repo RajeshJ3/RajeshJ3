@@ -40,6 +40,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Email authentication in Django Rest Framework | Django tutorials](https://www.youtube.com/watch?v=tAgDwEipToY)
 <!-- YOUTUBE:END -->
 
 ---
