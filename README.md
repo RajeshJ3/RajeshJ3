@@ -48,6 +48,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [📧 Email authentication in Django-Rest-Framework](https://dev.to/rajeshj3/email-authentication-in-django-rest-framework-5f6h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
