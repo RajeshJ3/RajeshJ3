@@ -2,7 +2,7 @@
 
 ## I'm a Full stack Web Developer
 
-- 🌱 Currently working as a Full Stack Developer at [Ornate Solar](http://ornatesolar.com/), India
+- 🌱 Currently working as Backend Engineer at [Neurobit Technologies](https://www.neurobit.io/)
 - 🔭 I’m currently learning WebRTC
 - 👯 Backend development using Django/DRF
 - 🥅 Front-end development using React
