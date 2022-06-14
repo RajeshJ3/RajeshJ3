@@ -2,7 +2,7 @@
 
 ## I'm a Full stack Web Developer
 
-- 🌱 Currently working as Software Engineer at [Neurobit Innovations](https://www.neurobit.io/)
+- 🌱 Currently working as Software Engineer at [Neurobit Innovations](https://www.neurobit.com/)
 - 🔭 I’m currently learning Kubernetes, WebRTC, LiveKit.
 - 👯 Backend development using Django/DRF, Python, building Microservices.
 - 🥅 Front-end development using React and JavaScript
