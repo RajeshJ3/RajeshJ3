@@ -1,16 +1,15 @@
-### Hi there, I'm Rajesh Joshi - aka [RajeshJ3][website] 👋
+### Hi there, I'm Rajesh Joshi - aka **RajeshJ3** 👋
 
 ## I'm a Full stack Web Developer
 
-- 🌱 Currently working as Backend Engineer at [Neurobit Technologies](https://www.neurobit.io/)
-- 🔭 I’m currently learning WebRTC
-- 👯 Backend development using Django/DRF
-- 🥅 Front-end development using React
+- 🌱 Currently working as Software Engineer at [Neurobit Innovations](https://www.neurobit.io/)
+- 🔭 I’m currently learning Kubernetes, WebRTC, LiveKit.
+- 👯 Backend development using Django/DRF, Python, building Microservices.
+- 🥅 Front-end development using React and JavaScript
 - ⚡ Server Lover, AWS, GCP 🤩🤩
 
 ### Connect with me:
 
-[<img align="left" alt="stackless.tech" width="22px" src="./assets/globe.png" />][website]
 [<img align="left" alt="Net Toolkit | YouTube" width="22px" src="./assets/youtube.png" />][youtube]
 [<img align="left" alt="RajeshJ3 | LinkedIn" width="22px" src="./assets/linkedin.png" />][linkedin]
 [<img align="left" alt="Rajesh.J3 | Instagram" width="22px" src="./assets/instagram.png" />][instagram]
@@ -19,29 +18,32 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="stackless.tech" width="22px" src="./assets/python.png" />][website]
-[<img align="left" alt="stackless.tech" width="22px" src="./assets/javascript.png" />][website]
-[<img align="left" alt="stackless.tech" width="22px" src="./assets/github.png" />][website]
-[<img align="left" alt="stackless.tech" width="22px" src="./assets/react.png" />][website]
+[<img align="left" alt="stackless.tech" width="22px" src="./assets/python.png" />](https://www.python.org/)
+[<img align="left" alt="stackless.tech" width="22px" src="./assets/javascript.png" />](https://www.javascript.com/)
+[<img align="left" alt="stackless.tech" width="22px" src="./assets/github.png" />](https://github.com/RajeshJ3/)
+[<img align="left" alt="stackless.tech" width="22px" src="./assets/react.png" />](https://reactjs.org/)
 
 <br />
 <br />
 
 ---
 
-### 🔭 Latest Projects 🔭
+### ✨ Latest Posts ✨
 
-- [Music Player Build With React JS and Material-UI](https://music.stackless.tech/)
-- [Crypto Currency Live Prices](http://crypto.stackless.tech/)
-- [WebRTC Project | Inspired from Google Meet](https://chat.azuuk.com/)
-- [Giveaway Website](https://99coupons.ml/)
-- [GYM Management System](https://gymslate.ml/)
+- [Hitchweb! Browser Extension🧩, Talk to people on same website 🤩](https://dev.to/rajeshj3/hitchweb-browser-extension-talk-to-people-on-same-website-1ic)
+- [Talk to people who are on the same site 🌎 | Chrome Extension](https://dev.to/rajeshj3/talk-to-people-who-are-on-the-same-site-chrome-extension-5hh7)
+- [My First App on Play Store 🚀](https://dev.to/rajeshj3/my-first-app-on-play-store-4lk7)
 
 ---
 
-<img align="left" alt="Rajesh Joshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RajeshJ3&show_icons=true&hide_border=true" />
+### 🔭 Latest Project 🔭
 
-[website]: https://rajeshj3.github.io
+- [Hitchweb](https://github.com/rajeshj3/hitchweb) | 💬🔊 Talk to people, on the same site. 🌐
+
+---
+
+<img align="left" alt="Rajesh Joshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajeshj3&show_icons=true&theme=dark" />
+
 [youtube]: https://youtube.com/UCCO4jIqmQVFDmVeeaAO5obA
 [instagram]: https://instagram.com/rajesh.j3
 [linkedin]: https://linkedin.com/in/RajeshJ3
