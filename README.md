@@ -51,6 +51,9 @@
 - [Share360.tech](https://share360.tech/) | 💬 Share encrypted text
 - [MathMind App](https://play.google.com/store/apps/details?id=com.rajeshj3.MathMind) | 🧠 Sharpen your mind with MathMind
 - [MathMind Multiplayer](https://mathmind.netlify.app/) | 🌐 Play MathMind Online with Friends
+- [CORS Proxy](https://rapidapi.com/joshirajesh448-emyeudCJ4Y-/api/cors-proxy1) | ✋ Resolve CORS Error with CORS Proxy
+
+[more...](https://dev.to/rajeshj3)
 
 ---
 
