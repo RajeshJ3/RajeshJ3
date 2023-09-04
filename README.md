@@ -12,7 +12,7 @@
 
 [<img align="left" alt="Net Toolkit | YouTube" width="22px" src="./assets/youtube.png" />][youtube]
 [<img align="left" alt="RajeshJ3 | LinkedIn" width="22px" src="./assets/linkedin.png" />][linkedin]
-[<img align="left" alt="Rajesh.J3 | Instagram" width="22px" src="./assets/instagram.png" />][instagram]
+[<img align="left" alt="Rajesh.J3 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" />][Twitter]
 
 <br />
 
@@ -38,12 +38,8 @@
 
 ### 🔭 Latest Project 🔭
 
-- [Hitchweb](https://github.com/rajeshj3/hitchweb) | 💬🔊 Talk to people, on the same site. 🌐
+- [Browsemates](https://www.browsemates.com/) | 💬🔊 Transform Your Website into Engaging Collaborative Space 🌐
 
----
-
-<img align="left" alt="Rajesh Joshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajeshj3&show_icons=true&theme=dark" />
-
-[youtube]: https://youtube.com/UCCO4jIqmQVFDmVeeaAO5obA
-[instagram]: https://instagram.com/rajesh.j3
+[youtube]: https://youtube.com/@stacklesstech
+[Twitter]: https://twitter.com/rajesh_j3
 [linkedin]: https://linkedin.com/in/RajeshJ3
