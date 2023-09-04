@@ -47,14 +47,21 @@
 
 ### 🔭 Latest Project 🔭
 
-- [Browsemates](https://www.browsemates.com/) | 💬🔊 Transform Your Website into Engaging Collaborative Space 🌐
+- [Browsemates](https://www.browsemates.com/) | 🔊 Transform Your Website into Engaging Collaborative Space
+- [Share360.tech](https://share360.tech/) | 💬 Share encrypted text
+- [MathMind App](https://play.google.com/store/apps/details?id=com.rajeshj3.MathMind) | 🧠 Sharpen your mind with MathMind
+- [MathMind Multiplayer](https://mathmind.netlify.app/) | 🌐 Play MathMind Online with Friends
 
-[youtube]: https://youtube.com/@stacklesstech
-[Twitter]: https://twitter.com/rajesh_j3
-[linkedin]: https://linkedin.com/in/RajeshJ3
+---
 
-### Connect with me
+### 🚀 Connect with me 🚀
 
 [<img align="left" alt="Rajesh.J3 | Instagram" width="22px" src="https://github.com/RajeshJ3/RajeshJ3/assets/41537758/f39de9a9-d33c-4ec6-a2b9-37a14b7daad3" />][Twitter]
 [<img align="left" alt="RajeshJ3 | LinkedIn" width="22px" src="./assets/linkedin.png" />][LinkedIn]
 [<img align="left" alt="Net Toolkit | YouTube" width="22px" src="./assets/youtube.png" />][YouTube]
+[<img align="left" alt="Net Toolkit | YouTube" width="22px" src="https://github.com/RajeshJ3/RajeshJ3/assets/41537758/2e69b2a8-17c1-4d7b-be70-f61d56d5d826" />][dev]
+
+[youtube]: https://youtube.com/@stacklesstech
+[Twitter]: https://twitter.com/rajesh_j3
+[linkedin]: https://linkedin.com/in/RajeshJ3
+[dev]: https://dev.to/rajeshj3
