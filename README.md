@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer
 
-- 🌱 Currently working at [Neurobit](https://www.neurobit.com/)
+- 🌱 Currently working at [SupportLogic](https://www.supportlogic.com/)
 - 🔭 I’m currently learning Kubernetes, WebRTC, GoLang.
 - 👯 Backend development using Django/DRF, FastAPI, Python, building Microservices.
 - 🥅 Front-end development using JavaScript, React, Redux and Material-UI.
